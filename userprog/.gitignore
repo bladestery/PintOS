@@ -1,0 +1,6 @@
+build
+bochsrc.txt
+bochsout.txt
+*.c~
+#.h~
+#*#
